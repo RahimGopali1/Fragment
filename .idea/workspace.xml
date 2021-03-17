@@ -9,8 +9,23 @@
     <option name="TOOL_WINDOW_LOG_LEVEL" value="verbose" />
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="87b8dd83-2ea5-4cf9-8ec5-d3bbb5bc97ed" name="Default Changelist" comment="" />
+    <list default="true" id="87b8dd83-2ea5-4cf9-8ec5-d3bbb5bc97ed" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/android/fragmentexample/SimpleFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/android/fragmentexample/SimpleFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/fragment_simple.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/fragment_simple.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/values/strings.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +49,11 @@
       </state>
     </system>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1pt64WmvAn5hBhR9X9hR3MOeZcT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -44,6 +63,8 @@
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2021-03-17T14:25:09.293Z" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ScreenshotViewer.SavePath" value="$PROJECT_DIR$" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
@@ -130,6 +151,17 @@
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.md" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
     <state x="499" y="164" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1615992182926">
       <screen x="0" y="0" width="1536" height="834" />
@@ -143,26 +175,30 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state x="614" y="203" key="AndroidCreateXmlResourceDialog/0.0.1536.834@0.0.1536.834" timestamp="1615992736761" />
-    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1615990632325">
+    <state x="549" y="172" key="FileChooserDialogImpl" timestamp="1615994080577">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1615990632325" />
-    <state width="1491" height="171" key="GridCell.Tab.0.bottom" timestamp="1615993639695">
+    <state x="549" y="172" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1615994080577" />
+    <state width="1491" height="171" key="GridCell.Tab.0.bottom" timestamp="1615994103448">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1491" height="171" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1615993639695" />
-    <state width="1491" height="171" key="GridCell.Tab.0.center" timestamp="1615993639694">
+    <state width="1491" height="171" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1615994103448" />
+    <state width="1491" height="171" key="GridCell.Tab.0.center" timestamp="1615994103448">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1491" height="171" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1615993639694" />
-    <state width="1491" height="171" key="GridCell.Tab.0.left" timestamp="1615993639694">
+    <state width="1491" height="171" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1615994103448" />
+    <state width="1491" height="171" key="GridCell.Tab.0.left" timestamp="1615994103447">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1491" height="171" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1615993639694" />
-    <state width="1491" height="171" key="GridCell.Tab.0.right" timestamp="1615993639695">
+    <state width="1491" height="171" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1615994103447" />
+    <state width="1491" height="171" key="GridCell.Tab.0.right" timestamp="1615994103448">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
-    <state width="1491" height="171" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1615993639695" />
+    <state width="1491" height="171" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1615994103448" />
+    <state x="0" y="0" key="ScreenshotViewer.Dimensions" timestamp="1615994081037">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="0" y="0" key="ScreenshotViewer.Dimensions/0.0.1536.834@0.0.1536.834" timestamp="1615994081037" />
     <state x="277" y="62" key="SettingsEditor" timestamp="1615991628196">
       <screen x="0" y="0" width="1536" height="834" />
     </state>

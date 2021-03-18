@@ -152,6 +152,10 @@
         "source": "C:\\Users\\rahim\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\c4e4a72cc6aa6e0127a5a3fe9c8b4a5e\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
     },
     {
+        "merged": "C:\\Users\\rahim\\AndroidStudioProjects\\FragmentExample1\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_second.xml.flat",
+        "source": "C:\\Users\\rahim\\AndroidStudioProjects\\FragmentExample1\\app\\src\\main\\res\\layout\\activity_second.xml"
+    },
+    {
         "merged": "C:\\Users\\rahim\\AndroidStudioProjects\\FragmentExample1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
         "source": "C:\\Users\\rahim\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-26.0.1.aar\\c4e4a72cc6aa6e0127a5a3fe9c8b4a5e\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
     },

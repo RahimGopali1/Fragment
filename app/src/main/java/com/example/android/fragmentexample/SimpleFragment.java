@@ -8,16 +8,9 @@ import android.view.ViewGroup;
 import android.widget.RadioGroup;
 import android.widget.TextView;
 
-/**
- * A simple {@link Fragment} subclass that shows a question
- * with radio buttons for providing feedback. If the user
- * clicks "Yes" the text header changes to "Article: Like".
- * If the user clicks "No" the text header changes to "Thanks".
- */
+
 public class SimpleFragment extends Fragment {
 
-    // The radio button choice has 3 states: 0 = yes, 1 = no,
-    // 2 = default (no choice). Using only 0 and 1.
     private static final int YES = 0;
     private static final int NO = 1;
 
@@ -25,14 +18,6 @@ public class SimpleFragment extends Fragment {
         // Required empty public constructor
     }
 
-    /**
-     * Creates the view for the fragment.
-     *
-     * @param inflater           LayoutInflater to inflate any views in the fragment
-     * @param container          ViewGroup of parent view to attach fragment
-     * @param savedInstanceState Bundle for previous state
-     * @return rootView
-     */
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {

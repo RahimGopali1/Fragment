@@ -4,7 +4,7 @@ FragmentExample_start - Starter Code
 Task 1
 <br>
 ![Task1](https://user-images.githubusercontent.com/79492620/111581041-ab391100-87e0-11eb-95d5-080615b231c1.gif)
-<img src="Task1b.png" width="250" height="400">
+<img src="Task1b.png" width="450" height="200">
 
 <br>
 Coding challenge
